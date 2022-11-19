@@ -1,0 +1,22 @@
+.btn_cantidad{
+    padding:50px ;
+}
+
+.btn_cantidad button {
+   margin: 10px;
+   background-color:darkslategray;
+   border-radius: 5px;
+   color: white;
+
+}
+
+.button_add{
+    background-color: darkslategray;
+    color: white;
+    border-radius: 5px;
+}
+
+.container_count{
+    display: flex;
+    flex-direction: row;
+    align-items: center;}

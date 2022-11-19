@@ -1,0 +1,16 @@
+.navbar-brand h2{
+    color: white;
+}
+
+.nav-item a{
+    color: rgb(241, 233, 233);
+}
+
+.cart_widget {
+    padding: 6px;
+    list-style: none;
+    color: black;    
+}
+.total{
+    color: black;
+}
